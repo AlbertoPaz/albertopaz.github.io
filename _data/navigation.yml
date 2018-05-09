@@ -1,12 +1,12 @@
 # Site navigation links
 
 - title: About
-  url: /about/
+  url: /
   excerpt: "hello anaconda"
   image: dog-400x250.jpg
   
 - title: Portfolio
-  url: /portfolio/
+  url: /
   excerpt: "Things I’ve designed, illustrated, developed, coded, and whatever."
   image: dog-400x250.jpg
 
