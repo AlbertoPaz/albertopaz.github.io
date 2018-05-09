@@ -1,6 +1,7 @@
 ---
 layout: article
 title: "Blog release"
+comments: true
 ---
 
 # Hello anaconda
