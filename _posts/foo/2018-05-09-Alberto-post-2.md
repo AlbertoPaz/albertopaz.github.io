@@ -1,5 +1,5 @@
 ---
-layout: archive
+layout: article
 image: dog-400x250.jpg
 title: "Number 2"
 ---
