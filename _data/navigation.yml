@@ -1,6 +1,14 @@
 # Site navigation links
 
-- title:
-  url:
-  excerpt:
+- title: About
+  url: /about/
+  excerpt: "hello anaconda"
   image:
+  
+- title: Portfolio
+  url: /portfolio/
+  excerpt: "Things I’ve designed, illustrated, developed, coded, and whatever."
+  image: 300x200.gif
+
+- title: Made Mistakes
+  url: http://mademistakes.com  
