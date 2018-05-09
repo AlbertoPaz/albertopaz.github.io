@@ -2,6 +2,7 @@
 layout: article
 title: "Blog release"
 comments: true
+image: dog-400x250.jpg
 ---
 
 # Hello anaconda
