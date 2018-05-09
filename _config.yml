@@ -2,7 +2,7 @@
 
 title: "Alberto Paz´s Blog"
 description: "This is a description of my awesome site."
-logo: logo.jpg # 120x120 px default image used for Twitter summary card
+logo: dog-400x250.jpg # 120x120 px default image used for Twitter summary card
 teaser: dog-400x250.jpg # 400x250 px default teaser image used in image archive grid
 locale: en
 url: https://albertopaz.github.io
