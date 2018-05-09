@@ -14,3 +14,5 @@ When we teach computers to write, the computers don’t replace us any more than
 - Generate captions for images, then poems for the captions
 - Model trained on the Oxford dictionary to generate plausible definitions for made up words i.e. love as “past tense of leave,”
 ![demo](https://vimeo.com/158403097)
+[![Demo CountPages alpha](https://share.gifyoutube.com/KzB6Gb.gif)](https://www.youtube.com/watch?v=ek1j272iAmc)
+
