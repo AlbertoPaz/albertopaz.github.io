@@ -6,10 +6,11 @@
   image: dog-400x250.jpg
   
 - title: Portfolio
-  url: /
-  excerpt: "Things I’ve designed, illustrated, developed, coded, and whatever."
+  url: /portfolio/
+  excerpt: "Things I’ve designed, developed, coded, and my personal text corpus"
   image: dog-400x250.jpg
 
-- title: Made Mistakes
-  url: http://mademistakes.com  
+- title: Projects
+  url: /projects/
+  excerpt: "Ongoing projects"
   image: dog-400x250.jpg
