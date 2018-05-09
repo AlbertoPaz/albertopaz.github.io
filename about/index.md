@@ -11,7 +11,6 @@ Hello anaconda
 ### some other links, blogs and videos
 [Adventures on Narrated Reality - Ross Goodwin](https://medium.com/artists-and-machine-intelligence/adventures-in-narrated-reality-6516ff395ba3)
 When we teach computers to write, the computers don’t replace us any more than pianos replace pianists—in a certain way, they become our pens, and we become more than writers. We become writers of writers.
-- Generate captions for images, then poems for the captions
+- Generate captions for images, then poems for the captions [demo](https://vimeo.com/158403097)
 - Model trained on the Oxford dictionary to generate plausible definitions for made up words i.e. love as “past tense of leave,”
-![demo](https://vimeo.com/158403097)
-[![Demo CountPages alpha](https://share.gifyoutube.com/KzB6Gb.gif)](https://vimeo.com/158403097)
+
