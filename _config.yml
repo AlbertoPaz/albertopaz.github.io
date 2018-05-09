@@ -3,9 +3,9 @@
 title: "Alberto Paz´s Blog"
 description: "This is a description of my awesome site."
 logo: # 120x120 px default image used for Twitter summary card
-teaser: # 400x250 px default teaser image used in image archive grid
+teaser: dog-400x250.jpg # 400x250 px default teaser image used in image archive grid
 locale: en
-url:
+url: http://albertopaz.github.io
 feed:
   path: atom.xml
 
@@ -34,7 +34,7 @@ owner:
     ad-slot:
   bio: I'm best known as the horrible cop from A Touch of Evil. Don't trust me. Read more about my life...
   avatar: bio-photo.jpg # 160x160 px image for author byline
-  disqus-shortname:
+  disqus-shortname: disqus_JLIr8Wsrfb
 
 
 include:
