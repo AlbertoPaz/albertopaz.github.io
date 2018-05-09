@@ -3,12 +3,13 @@
 - title: About
   url: /about/
   excerpt: "hello anaconda"
-  image:
+  image: dog-400x250.jpg
   
 - title: Portfolio
   url: /portfolio/
   excerpt: "Things I’ve designed, illustrated, developed, coded, and whatever."
-  image: 300x200.gif
+  image: dog-400x250.jpg
 
 - title: Made Mistakes
   url: http://mademistakes.com  
+  image: dog-400x250.jpg
