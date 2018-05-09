@@ -9,4 +9,5 @@ Hello anaconda
 > hello alberto
 
 ### some other links, blogs and videos
-
+[Adventures on Narrated Reality - Ross Goodwin](https://medium.com/artists-and-machine-intelligence/adventures-in-narrated-reality-6516ff395ba3)
+When we teach computers to write, the computers don’t replace us any more than pianos replace pianists—in a certain way, they become our pens, and we become more than writers. We become writers of writers.
