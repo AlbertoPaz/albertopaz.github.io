@@ -18,3 +18,5 @@ When we teach computers to write, the computers don’t replace us any more than
 "We typically consider the job of imbuing words with meaning to be that of the writer. However, when confronted with text that lacks objective meaning, the reader assumes that role. In a certain way, **the reader becomes the writer**."
 - Autocomplete for lyricists could turn writing song lyrics into a conversational process, with a writing partner made of metal and electricity, perhaps fine tuned with bias toward the topics and references that its human collaborator prefers.
 - 
+
+- [Neural story teller](https://medium.com/@samim/generating-stories-about-images-d163ba41e4ed)
