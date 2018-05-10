@@ -8,7 +8,7 @@ title: "About"
 Hello anaconda
 > hello alberto
 
-### Ross Goodwin experiments
+### Ross Goodwin experiments and more
 [Adventures on Narrated Reality - Ross Goodwin](https://medium.com/artists-and-machine-intelligence/adventures-in-narrated-reality-6516ff395ba3)
 When we teach computers to write, the computers don’t replace us any more than pianos replace pianists—in a certain way, they become our pens, and we become more than writers. We become writers of writers.
 - Generate captions for images, then poems for the captions [demo](https://vimeo.com/158403097)
@@ -20,3 +20,4 @@ When we teach computers to write, the computers don’t replace us any more than
 - 
 
 - [Neural story teller](https://medium.com/@samim/generating-stories-about-images-d163ba41e4ed)
+> training custom models, combining styles across genres and co-creating text with images & sounds. 
