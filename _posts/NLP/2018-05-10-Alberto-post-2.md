@@ -10,6 +10,4 @@ last_modified_at: 2018-05-10
 > hello
 > This is the post # 2
 
-{% figure caption:"So good at being in trouble" class:"large" %}
 ![UMO II](https://www.discogs.com/Unknown-Mortal-Orchestra-II/master/519003)
-{% endfigure %}
