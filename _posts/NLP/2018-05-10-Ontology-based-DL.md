@@ -28,13 +28,7 @@ ABSA Task is concerned with finding:
 
 In the last years, deep learning models were among the best performing machine learning algorithms in many fields including natural language processing. For ABSA, a DL model should look like this:
 
-try1:
-
 ![cabasc](https://github.com/AlbertoPaz/albertopaz.github.io/blob/master/images/cabasc_framework.png?raw=true)
-
-try2:
-
-![cabasc](https://github.com/AlbertoPaz/albertopaz.github.io/blob/master/_posts/NLP/cabasc_framework.png?raw=true)
 
 The above image is the framework of the state of art algorithm for the ABSA task on the [SemEval dataset 2014](). One can play arround with the components of the Network architecture and make it as complex as possible using Embeddings, RNN, multiple hops, non-linearities, attention mechanisms are incorporated to enable the Network to handle complex sentences. Some best performing implementations:
 - [4] proposes Long Short-Term Memory (LSTM) based on single-attention models which use aspect and word embeddings as input and LSTM hidden states for attention computation. 
@@ -49,7 +43,7 @@ The above image is the framework of the state of art algorithm for the ABSA task
 
 ## Long Short-Term Memory 
 
--[Understanding LSTM Networks](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)
+- [Understanding LSTM Networks](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)
 
 ## Attention modules
 
