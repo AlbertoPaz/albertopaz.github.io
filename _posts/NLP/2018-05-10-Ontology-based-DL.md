@@ -12,8 +12,8 @@ Due to Web popularity, nowadays, we experience a rapid growth of online reviews 
 
 Following [Surver on ABSA Kim and Flavius]() here I would like to first introduce some basic terminology
 Ortogonality
-> Opinion: "Judgement or belief not founded on certainty or proof". In this sense, opinions are subjective and their oposite will be facts
-> Sentiment: Its closely related to the attitude an emotion used to convey an evaluation of the topic under discussion
+- Opinion: "Judgement or belief not founded on certainty or proof". In this sense, opinions are subjective and their oposite will be facts
+- Sentiment: Its closely related to the attitude an emotion used to convey an evaluation of the topic under discussion
 
 some  more pictures and examples
 
@@ -65,8 +65,10 @@ The aim of this research is to implement several state of art deep learning mode
 - [Link to the results]()
 
 
-Some of the Deep Learning approaches mentioned above [memenet, cabasc] use the absolute distances between context and aspect words to produce a weighted memory. 
+Some of the Deep Learning approaches mentioned above [memenet, cabasc] use the absolute distances between context and aspect words to produce a weighted memory. One of the extensions of this work will be to use [gramatical dependencies]() instead
 
-![Ontologies](https://github.com/gsi-upm/sematch/raw/master/docs/sources/img/kg.png)
+<p align="center">
+  <img src="https://github.com/gsi-upm/sematch/raw/master/docs/sources/img/kg.png" alt="Ontologies"/>
+</p>
 
 
