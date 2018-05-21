@@ -24,8 +24,6 @@ ABSA Task is concerned with finding:
 * Holder, the one expressing the sentiment
 * Time at which the sentiment was expressed
 
-If large amounts of annotated data are available, machine learning approaches seem to give the best results [2]. For relatively small data sets (acquiring annotated data is a usually a very costly process), one can boost the performance of machine learning approaches by making use of domain knowledge formalized in domain ontologies [2]. Often such extensions are introduced by means of advanced ontology features that build on the semantics of the text reviews to provide high-quality signals to machine learning solutions. 
-
 # Deep Learning and ABSA
 
 In the last years, deep learning models were among the best performing machine learning algorithms in many fields including natural language processing. For ABSA, a DL model should look like this:
@@ -58,17 +56,20 @@ The above image is the framework of the state of art algorithm for the ABSA task
 - [Attention and Augmented Recurrent Neural Networks](https://distill.pub/2016/augmented-rnns/#attentional-interfaces)
 - [Attention and Memory in Deep Learning and NLP](http://www.wildml.com/2016/01/attention-and-memory-in-deep-learning-and-nlp/)
 
+# Ontologies
+
+If large amounts of annotated data are available, machine learning approaches seem to give the best results [2]. For relatively small data sets (acquiring annotated data is a usually a very costly process), one can boost the performance of machine learning approaches by making use of domain knowledge formalized in domain ontologies [2]. Often such extensions are introduced by means of advanced ontology features that build on the semantics of the text reviews to provide high-quality signals to machine learning solutions. 
+
+- TO DO: check this [Sematch](https://github.com/gsi-upm/sematch)
+- TO DO: also check the heroku app
+Ontologies use specific knowledge-based semantic similarity metrics that rely on structural knowledge in taxonomy (e.g. depth, path length, least common subsumer), and statistical information contents (corpus-IC and graph-IC). 
+
 # The project()
 
 The aim of this research is to implement several state of art deep learning models and explore extensions using information coming from domain ontologies to improve their working especially when small amounts of annotated data are available. Ontologies can play a role in the feature formation of deep learning solutions or can inject knowledge in the appropriate components of the used deep learning network architecture.
 - [Link to the project](https://github.com/AlbertoPaz/ABSA-PyTorch/blob/master/README.md)
 - [Link to the results]()
 
-
-# Ontologies
-- TO DO: check this [Sematch](https://github.com/gsi-upm/sematch)
-- TO DO: also check the heroku app
-Ontologies use specific knowledge-based semantic similarity metrics that rely on structural knowledge in taxonomy (e.g. depth, path length, least common subsumer), and statistical information contents (corpus-IC and graph-IC). 
 
 Some of the Deep Learning approaches mentioned above [memenet, cabasc] use the absolute distances between context and aspect words to produce a weighted memory. 
 
