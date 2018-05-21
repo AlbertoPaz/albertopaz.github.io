@@ -16,6 +16,17 @@ In the last years, deep learning models were among the best performing machine l
  
 The aim of this research is to extend deep learning models with information coming from domain ontologies to improve their working especially when small amounts of annotated data are available. Ontologies can play a role in the feature formation of deep learning solutions or can inject knowledge in the appropriate components of the used deep learning network architecture. While we have previously devised ontologies for ABSA for two domains, there is also room to improve the quality of these ontologies, if needed. The evaluation is done using existing standard data sets. 
 
+# Deep Learning
+Some of the resources I have found more interesting in each of the topics
+### Recurrent Neural Networks
+- [The Unreasonable Effectiveness of Recurrent Neural Networks](http://karpathy.github.io/2015/05/21/rnn-effectiveness/)
+### Long Short-Term Memory 
+-
+### Attention modules
+- [Attention and Augmented Recurrent Neural Networks](https://distill.pub/2016/augmented-rnns/#attentional-interfaces)
+- [Attention and Memory in Deep Learning and NLP](http://www.wildml.com/2016/01/attention-and-memory-in-deep-learning-and-nlp/)
+
+
 # Ontologies
 - TO DO: check this [Sematch](https://github.com/gsi-upm/sematch)
 - TO DO: also check the heroku app
