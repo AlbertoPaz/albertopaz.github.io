@@ -32,7 +32,7 @@ In the last years, deep learning models were among the best performing machine l
 
 try1:
 
-![cabasc](https://github.com/AlbertoPaz/albertopaz.github.io/blob/master/images/cabasc_framework.png)
+![cabasc](https://github.com/AlbertoPaz/albertopaz.github.io/blob/master/images/cabasc_framework.png?raw=true)
 
 try2:
 
