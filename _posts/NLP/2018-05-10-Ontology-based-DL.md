@@ -1,6 +1,6 @@
 ---
 layout: article
-image: !(UMO)[https://img.discogs.com/Rm-Jhb3eqyBwBGYID4oDIkUHZCQ=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-4245199-1424373312-2117.jpeg.jpg]
+image: https://sunflowerstorytime.files.wordpress.com/2011/03/emotion-faces-picture-e1429925480789.png
 title: Ontology driven Deep Learning for ABSA
 excerpt: "My first experiments with Deep Learning and NLP. Automatic approaches to make sense of people's opinions."
 last_modified_at: 2018-05-21
