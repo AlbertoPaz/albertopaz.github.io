@@ -8,7 +8,7 @@ last_modified_at: 2018-05-21
 
 Due to Web popularity, nowadays, we experience a rapid growth of online reviews where people express their opinions on products or services. As manually processing these vast amounts of data is impossible, automatic approaches have been devised to provide summaries of people’s opinion, which benefit both customers and companies. One such solution is proposed by sentiment analysis (mining), where public sentiment in relation to products or services needs to be computed [1]. One can take this one step further and gauge the sentiment with respect to aspects (features) of products or services, this what is known as aspect-based sentiment analysis (ABSA) [2]. 
  
-# Aspect-Based Sentiment Analysis
+### Aspect-Based Sentiment Analysis
 
 Following [Surver on ABSA Kim and Flavius]() here I would like to first introduce some basic terminology
 Ortogonality
@@ -24,7 +24,7 @@ ABSA Task is concerned with finding:
 * Holder, the one expressing the sentiment
 * Time at which the sentiment was expressed
 
-# Deep Learning and ABSA
+### Deep Learning and ABSA
 
 In the last years, deep learning models were among the best performing machine learning algorithms in many fields including natural language processing. For ABSA, a DL model should look like this:
 
