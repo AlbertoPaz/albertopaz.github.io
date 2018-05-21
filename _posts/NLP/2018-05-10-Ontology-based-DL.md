@@ -30,10 +30,10 @@ If large amounts of annotated data are available, machine learning approaches se
 
 In the last years, deep learning models were among the best performing machine learning algorithms in many fields including natural language processing. For ABSA, a DL model should look like this:
 try1:
-![Cabasc framework](https://github.com/AlbertoPaz/albertopaz.github.io/blob/master/images/cabasc_framework.png)
+![cabasc](https://github.com/AlbertoPaz/albertopaz.github.io/blob/master/images/cabasc_framework.png)
 
 try2:
-![](cabasc_framework.png)
+![cabasc2](.images/cabasc_framework.png)
 The above image is the framework of the state of art algorithm for the ABSA task on the [SemEval dataset 2014](). One can play arround with the components of the Network architecture and make it as complex as possible using Embeddings, RNN, multiple hops, non-linearities, attention mechanisms are incorporated to enable the Network to handle complex sentences. Some best performing implementations:
 - [4] proposes Long Short-Term Memory (LSTM) based on single-attention models which use aspect and word embeddings as input and LSTM hidden states for attention computation. 
 - [5] determines the attention based on relative distance of the words with respect to the aspects present in a sentence. In order to consider also the words far from the current aspect, 
@@ -54,9 +54,12 @@ The above image is the framework of the state of art algorithm for the ABSA task
 - [Attention and Augmented Recurrent Neural Networks](https://distill.pub/2016/augmented-rnns/#attentional-interfaces)
 - [Attention and Memory in Deep Learning and NLP](http://www.wildml.com/2016/01/attention-and-memory-in-deep-learning-and-nlp/)
 
-# The project
+# The project()
 
-The aim of this research is to extend deep learning models with information coming from domain ontologies to improve their working especially when small amounts of annotated data are available. Ontologies can play a role in the feature formation of deep learning solutions or can inject knowledge in the appropriate components of the used deep learning network architecture.
+The aim of this research is to implement several state of art deep learning models and explore extensions using information coming from domain ontologies to improve their working especially when small amounts of annotated data are available. Ontologies can play a role in the feature formation of deep learning solutions or can inject knowledge in the appropriate components of the used deep learning network architecture.
+- [Link to the project](https://github.com/AlbertoPaz/ABSA-PyTorch/blob/master/README.md)
+- [Link to the results]()
+
 
 # Ontologies
 - TO DO: check this [Sematch](https://github.com/gsi-upm/sematch)
@@ -67,4 +70,4 @@ Some of the Deep Learning approaches mentioned above [memenet, cabasc] use the a
 
 ![Ontologies](https://github.com/gsi-upm/sematch/raw/master/docs/sources/img/kg.png)
 
-[Link to the project](https://github.com/AlbertoPaz/ABSA-PyTorch/blob/master/README.md)
+
