@@ -1,9 +1,12 @@
 ---
 layout: article
-title: "Poetry Lab"
+title: "About"
 ---
 
 Hello anaconda
 > hello Alberto
 
-The content of the blog is very personal, things that interest me or that i am working on. Everything is written by a NN
+- Recently discovered the field of Deep Learning and NLP. Fascinated by all the possible applications.
+- Started a few projects I am going to share here.
+- Never been a good writer in spanish, less in english. The NN is going to write the posts
+
