@@ -18,6 +18,10 @@ The aim of this research is to extend deep learning models with information comi
 
 # Ontologies
 - TO DO: check this [Sematch](https://github.com/gsi-upm/sematch)
+- TO DO: also check the heroku app
+Ontologies use specific knowledge-based semantic similarity metrics that rely on structural knowledge in taxonomy (e.g. depth, path length, least common subsumer), and statistical information contents (corpus-IC and graph-IC). 
+
+Some of the Deep Learning approaches mentioned above [memenet, cabasc] use the absolute distances between context and aspect words to produce a weighted memory. 
 
 ![Ontologies](https://github.com/gsi-upm/sematch/raw/master/docs/sources/img/kg.png)
 
