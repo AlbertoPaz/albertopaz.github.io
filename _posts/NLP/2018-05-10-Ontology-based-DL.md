@@ -6,8 +6,10 @@ excerpt: "Experiments with automatic approaches to make sense of people's opinio
 last_modified_at: 2018-05-21
 ---
 
-Due to Web popularity, nowadays, we experience a rapid growth of online reviews where people express their opinions on products or services. As manually processing these vast amounts of data is impossible, automatic approaches have been devised to provide summaries of people’s opinion, which benefit both customers and companies. One such solution is proposed by sentiment analysis (mining), where public sentiment in relation to products or services needs to be computed [1]. In the recent years a lot of attention has been given to a subfield of sentiment analysis called aspect-based sentiment analysis (ABSA), where the sentiment is gauged with respect to aspects (features) of products or services [2]. 
+Due to Web popularity, nowadays, we experience a rapid growth of online reviews where people express their opinions on products or services. As manually processing these vast amounts of data is impossible, automatic approaches have been devised to provide summaries of people’s opinion, which benefit both customers and companies. One such solution is proposed by sentiment analysis (mining), where public sentiment in relation to products or services needs to be computed [1]. One can take this one step further and gauge the sentiment with respect to aspects (features) of products or services, this what is known as aspect-based sentiment analysis (ABSA) [2]. 
  
+
+
 If large amounts of annotated data are available, machine learning approaches seem to give the best results [2]. For relatively small data sets (acquiring annotated data is a usually a very costly process), one can boost the performance of machine learning approaches by making use of domain knowledge formalized in domain ontologies [2]. Often such extensions are introduced by means of advanced ontology features that build on the semantics of the text reviews to provide high-quality signals to machine learning solutions. 
 
 # Deep Learning 
