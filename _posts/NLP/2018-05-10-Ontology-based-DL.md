@@ -35,22 +35,22 @@ The above image is the framework of the state of art algorithm for the ABSA task
 - [5] determines the attention based on relative distance of the words with respect to the aspects present in a sentence. In order to consider also the words far from the current aspect, 
 - [6] employs a recurrent attention mechanism based on a customized memory for each aspect. 
 
-## Word Embeddings
+#### Word Embeddings
 
-## Recurrent Neural Networks
+#### Recurrent Neural Networks
 
 - [The Unreasonable Effectiveness of Recurrent Neural Networks](http://karpathy.github.io/2015/05/21/rnn-effectiveness/)
 
-## Long Short-Term Memory 
+#### Long Short-Term Memory 
 
 - [Understanding LSTM Networks](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)
 
-## Attention modules
+#### Attention modules
 
 - [Attention and Augmented Recurrent Neural Networks](https://distill.pub/2016/augmented-rnns/#attentional-interfaces)
 - [Attention and Memory in Deep Learning and NLP](http://www.wildml.com/2016/01/attention-and-memory-in-deep-learning-and-nlp/)
 
-# Ontologies
+### Incorporating ontologies
 
 If large amounts of annotated data are available, machine learning approaches seem to give the best results [2]. For relatively small data sets (acquiring annotated data is a usually a very costly process), one can boost the performance of machine learning approaches by making use of domain knowledge formalized in domain ontologies [2]. Often such extensions are introduced by means of advanced ontology features that build on the semantics of the text reviews to provide high-quality signals to machine learning solutions. 
 
@@ -58,7 +58,7 @@ If large amounts of annotated data are available, machine learning approaches se
 - TO DO: also check the heroku app
 Ontologies use specific knowledge-based semantic similarity metrics that rely on structural knowledge in taxonomy (e.g. depth, path length, least common subsumer), and statistical information contents (corpus-IC and graph-IC). 
 
-# The project()
+### The project
 
 The aim of this research is to implement several state of art deep learning models and explore extensions using information coming from domain ontologies to improve their working especially when small amounts of annotated data are available. Ontologies can play a role in the feature formation of deep learning solutions or can inject knowledge in the appropriate components of the used deep learning network architecture.
 - [Link to the project](https://github.com/AlbertoPaz/ABSA-PyTorch/blob/master/README.md)
