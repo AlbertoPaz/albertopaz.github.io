@@ -4,11 +4,6 @@
   url: /about/
   excerpt: "hello anaconda"
   image: dog-400x250.jpg
-  
-- title: Portfolio
-  url: /portfolio/
-  excerpt: "Things I’ve designed, developed, coded, and my personal text corpus"
-  image: dog-400x250.jpg
 
 - title: Projects
   url: /projects/
