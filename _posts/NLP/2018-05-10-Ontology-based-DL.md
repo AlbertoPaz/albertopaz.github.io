@@ -29,11 +29,15 @@ If large amounts of annotated data are available, machine learning approaches se
 # Deep Learning and ABSA
 
 In the last years, deep learning models were among the best performing machine learning algorithms in many fields including natural language processing. For ABSA, a DL model should look like this:
+
 try1:
+
 ![cabasc](https://github.com/AlbertoPaz/albertopaz.github.io/blob/master/images/cabasc_framework.png)
 
 try2:
-![cabasc2](.images/cabasc_framework.png)
+
+![cabasc](https://github.com/AlbertoPaz/albertopaz.github.io/blob/master/_posts/NLP/cabasc_framework.png?raw=true)
+
 The above image is the framework of the state of art algorithm for the ABSA task on the [SemEval dataset 2014](). One can play arround with the components of the Network architecture and make it as complex as possible using Embeddings, RNN, multiple hops, non-linearities, attention mechanisms are incorporated to enable the Network to handle complex sentences. Some best performing implementations:
 - [4] proposes Long Short-Term Memory (LSTM) based on single-attention models which use aspect and word embeddings as input and LSTM hidden states for attention computation. 
 - [5] determines the attention based on relative distance of the words with respect to the aspects present in a sentence. In order to consider also the words far from the current aspect, 
